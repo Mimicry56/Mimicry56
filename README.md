@@ -1,5 +1,7 @@
 ### Hi there and welcome👋
 
-<div id="header" align="center">
-  <img src="https://usagif.com/wp-content/uploads/cat-typing-16.gif" width="100"/>
+<div align="center">
+
+![GIF](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+  
 </div>
