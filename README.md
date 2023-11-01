@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there and welcome👋
 
 <!--
 **Mimicry56/Mimicry56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
