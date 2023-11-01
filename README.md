@@ -16,6 +16,10 @@ _Меня зовут Якубова Ирина и я QA Enginner. Закончи
   * [Тестирование интернет-магазина](https://github.com/Mimicry56/qa-engineer-project-84)
   * [Тестирование приложения Codebattle](https://github.com/Mimicry56/qa-engineer-project-85)
 
+## My issues
+
+* [Codebattle и другие](https://github.com/search?q=author%3AMimicry56&type=issues)
+
 ### Tools and technologies
 <a href="https://www.postman.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" /> </a>
